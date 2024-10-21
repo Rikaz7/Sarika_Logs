@@ -1,3 +1,4 @@
 discord-webhook
 nextcord
+flask
 python-dotenv
