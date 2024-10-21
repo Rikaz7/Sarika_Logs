@@ -157,4 +157,4 @@ async def setup(interaction: nextcord.Interaction):
 # เริ่มบอท
 server_on(  )
 
-bot.run(os.getenv("TOKENLOGS"))
+bot.run(os.getenv("TOKEN"))
